@@ -1,0 +1,110 @@
+body{
+    background-color: lightgray;
+}
+
+main{
+    display: block;
+    margin: 0 auto;
+    margin-top: -25px;
+    padding: 0;
+    width: 80%;
+    background-color: white;
+    height: 80vh;
+}
+
+.banner{
+    background-image: url(home/home-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+.banner img{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.banner h1{
+    line-height: 50px;
+    text-align: center;
+    text-shadow:3px 3px 1px rgba(0,0,0,1);
+    color:brown;
+    letter-spacing:3pt;
+    font-size:37px;
+    font-family:arial, helvetica, sans-serif;
+    padding-top: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+.box{
+    width: 49%;
+}
+
+.left{
+    float: left;
+    text-align: left;
+    padding-left: 15px;
+}
+
+.right{
+    float: right;
+    text-align: right;
+    padding-right: 15px;
+}
+
+header{
+    display: block;
+    padding: 0;
+    margin: 0 auto;
+    width: 80%;
+    background-color: brown;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display:block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+    color: white;
+}
+
+.active {
+    background-color: black;
+    color: white;
+}
+
+#mapsImg{
+    width: 100%;
+    padding-top: 15px;
+}
+
+#slider{
+    width: 50%;
+    margin-top: 40px;
+}
