@@ -1,3 +1,5 @@
+Challenge HTML
+
 # Challenge AO17-01: HTML/CSS en Javascript
 
 ## Beschikbare tijd
@@ -5,7 +7,7 @@ Maandag 6 november 2017 14:00 t/m vrijdag 10 november 2017 23:59
 
 ## Toegestane middelen
 De studenten mogen bij de Challenge gebruiken:
--	Alle eerder gemaakte opdrachten 
+-	Alle eerder gemaakte opdrachten
 -	Referentiewebsites als w3schools.org, Stackoverflow etc.
 -	HTML / CSS boek
 
@@ -32,8 +34,8 @@ Je mag veel meer eigen inbreng gebruiken als bij de oefeningen in de afgelopen t
   *	daaronder een banner (100% breedte, hoogte 200pixels)
   *	daaronder de content in twee kolommen
     *	linkerkant
-    *	rechterkant 
-  *	onderaan een footer 
+    *	rechterkant
+  *	onderaan een footer
 *	Gebruik ergens in je site een caroussel (javascript of jquery code die op 1 plek steeds een nieuwe afbeelding laat zien)
 
 ## Technische eisen:
@@ -46,4 +48,3 @@ Je mag veel meer eigen inbreng gebruiken als bij de oefeningen in de afgelopen t
 *	Gebruik main en article waar nodig
 *	Gebruik position: relative, absolute en fixed waar nodig.
 *	Pas nooit negatieve margins of paddings toe
-
